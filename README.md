@@ -1,5 +1,7 @@
 # Real-Time Face, Eyes, and Smile Detection
 
+![Face Detection Example](https://github.com/Arsalanzabeeb786/Face-Detection-with-OpenCV/blob/main/video_screenshot.png)
+
 This project demonstrates how to use OpenCV, a powerful computer vision library, to perform real-time detection of faces, eyes, and smiles via a webcam. The detection results are visualized by drawing rectangles around the detected features directly on the video feed.
 
 ## Key Features
