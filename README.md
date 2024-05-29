@@ -25,5 +25,5 @@ This project demonstrates how to use OpenCV, a powerful computer vision library,
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/face-detection.git
+   git clone https://github.com/Arsalanzabeeb786/Face-Detection-with-OpenCV.git
    cd face-detection
